@@ -23,10 +23,10 @@ Quora Post Creator provides a basic platform for users to share their thoughts, 
 - UUID for generating unique IDs
 
 ## Usage
--Visit http://localhost:8080/posts to view existing posts.
--To create a new post, go to http://localhost:8080/posts/new.
--To edit a post, click on the "Edit" link on the post detail page.
--To delete a post, click on the "Delete Post" button on the post detail page.
+- Visit http://localhost:8080/posts to view existing posts.
+- To create a new post, go to http://localhost:8080/posts/new.
+- To edit a post, click on the "Edit" link on the post detail page.
+- To delete a post, click on the "Delete Post" button on the post detail page.
 
 ## Created By
 Vinod S
